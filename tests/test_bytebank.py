@@ -56,4 +56,5 @@ class TestClass():
             
             resultado = funcionario_teste.calcular_bonus() #When
             
-            assert resultado  #Then    
+            assert resultado  #Then
+    
